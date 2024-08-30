@@ -38,6 +38,14 @@
 
 ![](https://leetcard.jacoblin.cool/SusovanDas26?ext=heatmap)
 
+## 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/susovan-das-b927b7254/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+    <a href="https://twitter.com/Susovan06893679" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="30" width="30" /></a>
+  <a href="https://leetcode.com/SusovanDas26" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode" height="30" width="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/amesus8nc8" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/17960677/100546521-d3c7ea00-3287-11eb-9a5f-c4887c8c3ccf.png" alt="GeeksforGeeks" height="30" width="30" /></a>
+</p>
+
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
