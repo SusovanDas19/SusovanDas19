@@ -33,7 +33,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SusovanDas19&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-## 🧩DSA:
+
+## 🧩DSA Journey:
+
 ![](https://leetcard.jacoblin.cool/SusovanDas26?ext=heatmap)
 
 ### ✍️ Random Dev Quote
