@@ -9,7 +9,7 @@
 - 💬 Ask me about **DSA** and **Web Development**.
 - 📫 How to reach me: **amesusovan@gmail.com**
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -29,7 +29,7 @@
 </p>
 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SusovanDas19&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Susovan's GitHub Stats" />
   <br/>
