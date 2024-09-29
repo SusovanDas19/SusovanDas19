@@ -9,25 +9,17 @@
 - 💬 Ask me about **DSA** and **Web Development**.
 - 📫 How to reach me: **amesusovan@gmail.com**
 
-### 💻 Tech Stack:
+### 💻 Tech Stack & Libraries:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,cpp,figma,git&perline=9&theme=dark)](https://skillicons.dev)
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/Bcrypt-E9E9E9?style=flat-square&logo=hashnode&logoColor=black" alt="Bcrypt" />
 <img src="https://img.shields.io/badge/Zod-blue?style=flat-square&logo=typescript&logoColor=white" alt="Zod" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white" alt="Git" />
-
 </p>
 
+### 🛠️ Tools:
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,postman,vscode,replit,linux,bash,notion&perline=9&theme=dark)](https://skillicons.dev)
 
 ### 📊 GitHub Stats:
 <p align="center">
@@ -44,7 +36,6 @@
 </p>
 
 ## 🧩DSA Journey:
-
 ![](https://leetcard.jacoblin.cool/SusovanDas26?ext=heatmap)
 
 ## 🌐 Connect with me:
