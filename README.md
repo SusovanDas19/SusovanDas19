@@ -10,7 +10,7 @@
 - 📫 How to reach me: **amesusovan@gmail.com**
 
 ### 💻 Tech Stack & Libraries:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,cpp,figma,git&perline=9&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,cpp,figma,git&perline=6&theme=dark)](https://skillicons.dev)
 <p align="left">
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
@@ -19,7 +19,7 @@
 </p>
 
 ### 🛠️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,postman,vscode,replit,linux,bash,notion&perline=9&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,postman,vscode,replit,linux,bash,notion&perline=6&theme=dark)](https://skillicons.dev)
 
 ### 📊 GitHub Stats:
 <p align="center">
