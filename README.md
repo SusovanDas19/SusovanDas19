@@ -5,18 +5,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🌱 I’m currently learning **MERN STACK**.
-- 💬 Ask me about **DSA** and **Web Development**.
+- 🌱 I’m currently diving into **Web Development**.
+- 💬 Ask me about **Web Development** and **DSA**.
 - 📫 How to reach me: **amesusovan@gmail.com**
 
 ### 💻 Tech Stack & Libraries:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cpp,react,nodejs,express,mongodb&perline=6&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cpp,react,tailwind,nodejs,express,mongodb&perline=6&theme=dark)](https://skillicons.dev)
 <p align="left">
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/Bcrypt-E9E9E9?style=flat-square&logo=hashnode&logoColor=black" alt="Bcrypt" />
 <img src="https://img.shields.io/badge/Zod-blue?style=flat-square&logo=typescript&logoColor=white" alt="Zod" />
 <img src="https://img.shields.io/badge/Recoil-purple?style=flat-square&logo=recoil&logoColor=white" alt="Recoil" />
+<img src="https://img.shields.io/badge/ws-008000?style=flat-square&logo=nodedotjs&logoColor=white" alt="ws" />
+<img src="https://img.shields.io/badge/Motion-yellow?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
 </p>
 
 ### 🛠️ Tools:
