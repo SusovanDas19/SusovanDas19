@@ -5,12 +5,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🌱 I’m currently diving into **Web Development**.
+- 🌱 I’m currently diving into **Web Development & DEVOPS**.
 - 💬 Ask me about **Web Development** and **DSA**.
 - 📫 How to reach me: **amesusovan@gmail.com**
 
 ### 💻 Tech Stack & Libraries:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cpp,react,tailwind,nodejs,express,mongodb&perline=6&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,cpp,react,tailwind,nodejs,express,mongodb,postgres,mysql,prisma&perline=6&theme=dark)](https://skillicons.dev)
 <p align="left">
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
 <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
